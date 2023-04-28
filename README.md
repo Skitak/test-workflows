@@ -1,2 +1,0 @@
-# test-workflows
-test GameCI
